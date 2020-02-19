@@ -17,19 +17,13 @@ url of the demo
 
 ## Built With
 
-- HTML5
-- CSS3
-- Bootstrap 4
-- Node
+- Ruby 2.6.5
 
 ---
 
 ### Prerequisites
 
-- Node.js (for Stylelint)
-- Web Browser
-- CLI
-- IDE
+- Ruby
 
 ### Dependencies
 
@@ -39,7 +33,8 @@ If there are dependencies
 
 `git clone https://github.com/AlfredoElizarraras/project-name.git`
 
-`npm install`
+# On command line:
+`bundler install`
 
 ## Authors
 
