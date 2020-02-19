@@ -23,7 +23,7 @@ url of the demo
 
 ### Prerequisites
 
-- Ruby
+- Ruby 2.6.5
 
 ### Dependencies
 
@@ -33,7 +33,7 @@ If there are dependencies
 
 `git clone https://github.com/AlfredoElizarraras/project-name.git`
 
-# On command line:
+#### On command line:
 `bundler install`
 
 ## Authors
